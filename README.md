@@ -6,7 +6,7 @@
 
 <!-- Typing SVG terminal lines -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=600&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=620&height=75&lines=%5BSYS%3A+BOOT%5D+Initializing+neural+link............+OK;%5BSYS%3A+NET%5D+Connecting+to+Zion+mainframe.........+OK;%5BSYS%3A+RUN%5D+Agentic+AI+%7C+Discord+Bots+%7C+Web+Scraping" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=600&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=620&height=75&lines=%5BSYS%3A+BOOT%5D+Initializing+neural+link............+OK;%5BSYS%3A+NET%5D+Connecting+to+Hydra+mainframe.........+OK;%5BSYS%3A+RUN%5D+Agentic+AI+%7C+Discord+Bots+%7C+Web+Scraping" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -28,7 +28,7 @@ class RylanHexx:
 
 <!-- SOCIAL INTERFACES BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=SOCIAL+INTERFACES&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=establish+outbound+connection&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="78%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=SOCIAL+INTERFACES&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=establish+outbound+connection&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="90%"/>
 
 <br/><br/>
 
@@ -47,7 +47,7 @@ class RylanHexx:
 
 <!-- LOADED PROGRAMS BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=LOADED+PROGRAMS+%2B+SKILLS&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=runtime+environment+active&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="78%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=LOADED+PROGRAMS+%2B+SKILLS&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=runtime+environment+active&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="90%"/>
 
 <br/><br/>
 
@@ -86,7 +86,7 @@ class RylanHexx:
 
 <!-- SYSTEM DIAGNOSTICS BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=SYSTEM+DIAGNOSTICS&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=scanning+neural+pathways&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="78%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=SYSTEM+DIAGNOSTICS&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=scanning+neural+pathways&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="90%"/>
 </div>
 
 <br/>
@@ -117,7 +117,7 @@ class RylanHexx:
 
 <!-- CONTRIBUTION PROTOCOL BANNER -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=CONTRIBUTION+PROTOCOL&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=commit+history+decoded&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="78%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=CONTRIBUTION+PROTOCOL&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=commit+history+decoded&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="90%"/>
 
 <br/><br/>
 
@@ -133,5 +133,5 @@ class RylanHexx:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003b00,100:000000&height=130&section=footer&text=wake+up%2C+neo...&fontSize=20&fontColor=00ff41&fontAlignY=62&animation=fadeIn" width="100%"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RylanHexx&style=for-the-badge&color=00ff41&label=AGENTS+MONITORING+YOU"/>
+  <img src="https://komarev.com/ghpvc/?username=RylanHexx&style=for-the-badge&color=1dc448&label=AGENTS+MONITORING"/>
 </div>
