@@ -1,137 +1,96 @@
-<!-- Top green line accent -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00ff41&height=4" width="100%"/>
-
-<!-- Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:001a00,70:003b00,100:00ff41&height=220&section=header&text=%3E_%20RYLANHEXX&fontSize=56&fontColor=00ff41&fontAlignY=36&fontAlign=50&desc=jack+in+--+the+matrix+has+you&descAlignY=57&descSize=17&descColor=39ff14&descAlign=50&animation=fadeIn" width="100%"/>
-
-<!-- Typing SVG terminal lines -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=16&duration=2800&pause=600&color=00FF41&background=00000000&center=true&vCenter=true&multiline=true&width=620&height=75&lines=%5BSYS%3A+BOOT%5D+Initializing+neural+link............+OK;%5BSYS%3A+NET%5D+Connecting+to+Hydra+mainframe.........+OK;%5BSYS%3A+RUN%5D+Agentic+AI+%7C+Discord+Bots+%7C+Web+Scraping" alt="Typing SVG"/>
+
+# Rylan Hexx
+
+**AI Engineer · Full-Stack Developer · Systems Thinker**
+
+Building agentic systems, Discord bots, and developer tooling.
+Currently deep in Python, LLMs, and web scraping.
+
+<br/>
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/placeholder)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/placeholder)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/placeholder)
+
 </div>
 
-<br/>
+---
 
-<!-- ABOUT ME + GIF -->
-<img align="left" height="155" hspace="18" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXkxdXJ6cW1meDZyZmFtOHZsemZ3N2lhem8yMHZoNjZtd2U4a2I1dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/137EaR4vAOCn1S/giphy.gif"/>
+## About
 
-```python
-class RylanHexx:
-    status     = "🤖 Building Agentic AI"
-    learning   = "🐍 Python · Algorithms · LLMs"
-    building   = "🐱‍🐉 Discord Bots · Web Scraping"
-    philosophy = "There is no spoon."
-```
+- 🤖 &nbsp;Working on **Agentic AI** — multi-agent workflows and LLM tooling
+- 🐍 &nbsp;Deepening in **Python** for algorithms, ML pipelines, and LLM integration
+- 🐱‍🐉 &nbsp;Building **Discord bots** and web scraping systems
+- 🛠️ &nbsp;Interested in systems design, developer tooling, and local AI infrastructure
 
-<br clear="left"/>
+---
 
-<br/>
+## Tech Stack
 
-<!-- SOCIAL INTERFACES BANNER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=SOCIAL+INTERFACES&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=establish+outbound+connection&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="90%"/>
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**Frameworks & Platforms**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232a?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows_Terminal-4D4D4D?style=flat-square&logo=windows-terminal&logoColor=white)
+
+**AI & Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=flat-square&logo=scipy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat-square&logo=matplotlib&logoColor=black)
+
+**Design & Version Control**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-181717?style=flat-square&logo=gitlab&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=RylanHexx&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&rank_icon=github" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RylanHexx&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact" height="160"/>
 
 <br/><br/>
 
-<a href="https://discord.gg/placeholder">
-  <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white&style=for-the-badge"/>
-</a>&nbsp;&nbsp;
-<a href="https://facebook.com/placeholder">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge"/>
-</a>&nbsp;&nbsp;
-<a href="https://x.com/placeholder">
-  <img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white&style=for-the-badge"/>
-</a>
-</div>
+<img src="https://streak-stats.demolab.com/?user=RylanHexx&theme=tokyonight&hide_border=true&fire=FF6B35&ring=7B68EE&currStreakLabel=7B68EE&sideLabels=8B949E&dates=8B949E&stroke=21262D" height="160"/>
 
-<br/>
+---
 
-<!-- LOADED PROGRAMS BANNER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=LOADED+PROGRAMS+%2B+SKILLS&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=runtime+environment+active&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="90%"/>
-
-<br/><br/>
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
-<br/>
-
-<!-- SYSTEM DIAGNOSTICS BANNER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=SYSTEM+DIAGNOSTICS&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=scanning+neural+pathways&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="90%"/>
-</div>
-
-<br/>
-
-<img align="right" height="155" hspace="18" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExajF3b2UzYjB0bDJtZTVuNGQ2ZGVocnYyaXR1M2R4cXplNmVlejBvZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eCqFYAVjjDksg/giphy.gif"/>
-
-<img src="https://github-readme-stats.shion.dev/api?username=RylanHexx&theme=dark&hide_border=false&include_all_commits=false&count_private=true&bg_color=000000&title_color=00ff41&text_color=00cc33&icon_color=00ff41&border_color=00ff41"/>
-
-<br clear="right"/>
-
-<br/>
-
-<img align="left" height="155" hspace="18" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXgxcWwxN3NibWI0ZHNtNjBnNmNjOG82NXNmM2ttN3k5ZWtoeGYydiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NSzHiAwAcazs7dcDr9/giphy.gif"/>
-
-<img align="right" src="https://streak-stats.demolab.com/?user=RylanHexx&theme=dark&hide_border=false&background=000000&stroke=00ff41&ring=00ff41&fire=39ff14&currStreakLabel=00ff41&sideLabels=00cc33&dates=008f11&border=00ff41"/>
-
-<br clear="both"/>
-
-<br/>
-
-<img align="right" height="155" hspace="18" src="https://i.imgflip.com/65efzo.gif"/>
-
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=RylanHexx&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact&bg_color=000000&title_color=00ff41&text_color=00cc33&icon_color=00ff41&border_color=00ff41" alt="Top Languages"/>
-
-<br clear="both"/>
-
-<br/>
-
-<!-- CONTRIBUTION PROTOCOL BANNER -->
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,30:001400,50:004d00,70:001400,100:000000&height=55&text=CONTRIBUTION+PROTOCOL&fontSize=22&fontColor=00ff41&fontAlign=50&fontAlignY=55&desc=commit+history+decoded&descSize=12&descColor=00cc55&descAlign=50&descAlignY=82" width="90%"/>
-
-<br/><br/>
+## Contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RylanHexx/RylanHexx/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RylanHexx/RylanHexx/output/pacman-contribution-graph.svg"/>
+  <img alt="Contribution graph" src="https://raw.githubusercontent.com/RylanHexx/RylanHexx/output/pacman-contribution-graph.svg" width="100%"/>
 </picture>
-</div>
 
-<br/>
-
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff41,40:003b00,100:000000&height=130&section=footer&text=wake+up%2C+neo...&fontSize=20&fontColor=00ff41&fontAlignY=62&animation=fadeIn" width="100%"/>
+---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RylanHexx&style=for-the-badge&color=1dc448&label=AGENTS+MONITORING"/>
+  <img src="https://komarev.com/ghpvc/?username=RylanHexx&style=flat-square&color=7B68EE&label=Profile+Views"/>
 </div>
